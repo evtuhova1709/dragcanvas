@@ -1,0 +1,25 @@
+.TD {
+    vertical-align: top;
+    padding: 0%;
+  }
+  .leftcol {
+    width: 250px;
+    background: #ccc;
+    border: 1px solid #000;
+  
+  }
+  
+  .rightcol {
+    background: #ccc;
+    border: 1px solid #000;
+  }
+  .zone-2{
+    background:white;
+    border: 1px solid #000;
+  }
+  .zone-1{
+    background: white;
+    border: 1px solid #000;
+    height: 1440px;
+  
+  }
